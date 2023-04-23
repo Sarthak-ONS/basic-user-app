@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap");
+
+.form {
+  display: flex;
+  flex-direction: column;
+  font-family: "Poppins";
+}
+
+.form label {
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.form input {
+  margin-top: 10px;
+}
+
+@media (min-width: 40rem) {
+  .form {
+    width: 40%;
+    justify-content: center;
+  }
+}

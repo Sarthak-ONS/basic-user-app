@@ -1,0 +1,9 @@
+button {
+  margin: 1rem 0;
+  border-radius: 8px;
+  padding: 10px;
+  border: 2px solid rgb(138, 78, 0);
+  background-color: rgb(244, 158, 46);
+  font-family: "Poppins";
+  font-weight: bold;
+}

@@ -1,0 +1,11 @@
+ul {
+  list-style: none;
+}
+
+li {
+  color: black;
+  margin: 2rem;
+  border: 2px solid rgb(138, 78, 0);
+  padding: 0.25rem 2rem;
+  border-radius: 8px;
+}
